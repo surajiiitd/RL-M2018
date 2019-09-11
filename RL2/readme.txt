@@ -1,4 +1,4 @@
-README
+RL Assignment 2
 
 The notebook contains the steps and other processes/methodology.
-Comments are made to see the steps and the process flow
+Comments are made to see the steps and the process flow.
